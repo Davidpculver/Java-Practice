@@ -25,10 +25,11 @@ public class Main {
 //        System.out.println(car.accelerate());
 //        System.out.println(car.brake());
 //
-//        Camaro camaro = new Camaro("z28", 8);
+        Camaro camaro = new Camaro("z28", 8, "red", true);
 //        System.out.println(camaro.startEngine());
 //        System.out.println(camaro.accelerate());
 //        System.out.println(camaro.brake());
+        System.out.println(camaro.color);
 //
         Corvette corvette = new Corvette("zl1", 8);
 //        System.out.println(corvette.startEngine());
