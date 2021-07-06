@@ -36,6 +36,7 @@ public class Main {
 //        System.out.println(corvette.accelerate());
 //        System.out.println(corvette.brake());
         System.out.println(corvette.getWheels());
+        System.out.println(corvette.accelerate());
 //
 //        Mustang mustang = new Mustang("GT500", 8);
 //        System.out.println(mustang.startEngine());
